@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa5e6855-dedb-492a-96ed-1e479b08df58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/kotlin/felipecastrosales/contadordepessoas/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/images/restaurant.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contador_de_pessoas/pubspec.yaml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1eNNvBw6sOVr8Lbo4UjbbMQ0d8Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../layout" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5e6855-dedb-492a-96ed-1e479b08df58" name="Default Changelist" comment="" />
+      <created>1594158318958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594158318958</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="139" key="FileChooserDialogImpl" timestamp="1597931645585">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="306" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1597931645585" />
+    <state width="1877" height="135" key="GridCell.Tab.0.bottom" timestamp="1594340460730">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594340460730" />
+    <state width="1877" height="135" key="GridCell.Tab.0.center" timestamp="1594340460730">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594340460730" />
+    <state width="1877" height="135" key="GridCell.Tab.0.left" timestamp="1594340460730">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594340460730" />
+    <state width="1877" height="135" key="GridCell.Tab.0.right" timestamp="1594340460730">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="135" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594340460730" />
+    <state x="-1820" y="-48" width="1300" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1594329103980">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state x="-1820" y="-48" width="1300" height="840" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1594329103980" />
+  </component>
+</project>
