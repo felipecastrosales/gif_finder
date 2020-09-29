@@ -20,10 +20,10 @@ class _HomePageState extends State<HomePage> {
 
     if (_search == null)
       response = await http.get(
-          "https://api.giphy.com/v1/gifs/trending?api_key=IyO7FLT2n9WFb7wJA4qx1cXf68IoBq42&limit=20&rating=g");
+          'https://api.giphy.com/v1/gifs/trending?api_key=IyO7FLT2n9WFb7wJA4qx1cXf68IoBq42&limit=20&rating=g');
     else
       response = await http.get(
-          "https://api.giphy.com/v1/gifs/search?api_key=IyO7FLT2n9WFb7wJA4qx1cXf68IoBq42&q=$_search&limit=19&offset=$_offset&rating=g&lang=pt");
+          'https://api.giphy.com/v1/gifs/search?api_key=IyO7FLT2n9WFb7wJA4qx1cXf68IoBq42&q=$_search&limit=19&offset=$_offset&rating=g&lang=pt');
     return json.decode(response.body);
   }
 
@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Colors.black12,
         title: Image.network(
-            "https://developers.giphy.com/static/img/dev-logo-lg.7404c00322a8.gif"),
+            'https://developers.giphy.com/static/img/dev-logo-lg.7404c00322a8.gif'),
         centerTitle: true,
       ),
       backgroundColor: Colors.black38,
@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
             padding: const EdgeInsets.all(10),
             child: TextField(
               decoration: InputDecoration(
-                labelText: "Pesquise seu gif:",
+                labelText: 'Pesquise seu gif:',
                 labelStyle: TextStyle(color: Colors.white),
                 border: OutlineInputBorder(),
               ),
@@ -114,33 +114,37 @@ class _HomePageState extends State<HomePage> {
           crossAxisSpacing: 10.0,
           mainAxisSpacing: 10.0,
         ),
-        itemCount: _getCount(snapshot.data["data"]),
+        itemCount: _getCount(snapshot.data['data']),
         itemBuilder: (context, index) {
-          if (_search == null || index < snapshot.data["data"].length)
+          if (_search == null || index < snapshot.data['data'].length)
             return GestureDetector(
-                child: FadeInImage.memoryNetwork(
-                    placeholder: kTransparentImage,
-                    image: snapshot.data["data"][index]["images"]["fixed_height"]["url"],
-                    height: 300.0,
-                    fit: BoxFit.cover),
-              onTap: (){
-                  Navigator.push(context,
-                  MaterialPageRoute(builder: (context) => GifPage(snapshot.data["data"][index]))
-                  );
+              child: FadeInImage.memoryNetwork(
+                  placeholder: kTransparentImage,
+                  image: snapshot.data['data'][index]['images']['fixed_height']
+                      ['url'],
+                  height: 300.0,
+                  fit: BoxFit.cover),
+              onTap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder: (context) =>
+                            GifPage(snapshot.data['data'][index])));
               },
-              onLongPress: (){
-                Share.share(snapshot.data["data"][index]["images"]["fixed_height"]["url"]);
+              onLongPress: () {
+                Share.share(snapshot.data['data'][index]['images']
+                    ['fixed_height']['url']);
               },
-              );
+            );
           else
             return Container(
               child: GestureDetector(
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: <Widget>[
-                    Icon(Icons.add, color: Colors.white, size: 70.0),
-                    Text("Carregar mais...",
-                        style: TextStyle(color: Colors.white, fontSize: 22.0))
+                    Icon(Icons.add, color: Colors.white, size: 60.0),
+                    Text('Carregar mais...',
+                        style: TextStyle(color: Colors.white, fontSize: 20.0))
                   ],
                 ),
                 onTap: () {
