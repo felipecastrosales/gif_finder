@@ -10,7 +10,7 @@
    
    - [About 📖](#about-)
    - [Preview 📱](#preview-)
-   - [Challenges and Learnings along the way 🤯](#---challenges-and-learnings-along-the-way----)
+   - [Challenges and Learnings along the way 🤯](#challenges-and-learnings-along-the-way-)
    - [How to Use 🤔](#how-to-use-)
    - [How to Contribute 💪](#how-to-contribute-)
    - [License 📝](#license-)
@@ -46,6 +46,7 @@
    This application for searching Gifs through the API provided by Giphy itself, very well documented and structured.<br>
    Here was my second experience using APIs, and I did well in both, despite the doubts I had about how to consult, I managed to understand the concept, and how to do it.<br>
    Certainly with a lot of practice I will learn more and more about it.<br>
+   I also learned a lot about new widgets, layouts, and logic.
 
    </p> 
 
