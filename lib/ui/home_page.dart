@@ -31,9 +31,6 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     _getGifs().then(print);
-    /* or
-    _getGifs().then((map) {
-      print(map);*/
   }
 
   @override
@@ -137,22 +134,22 @@ class _HomePageState extends State<HomePage> {
             );
         } else {
           return Container(
-              child: GestureDetector(
-                child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  children: <Widget>[
-                    Icon(Icons.add, color: Colors.white, size: 60.0),
-                    Text('Carregar mais...',
-                      style: TextStyle(color: Colors.white, fontSize: 20.0))
-                  ],
-                ),
-                onTap: () {
-                  setState(() {
-                    _offset += 19;
-                  });
-                },
+            child: GestureDetector(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: <Widget>[
+                  Icon(Icons.add, color: Colors.white, size: 60.0),
+                  Text('Carregar mais...',
+                    style: TextStyle(color: Colors.white, fontSize: 20.0))
+                ],
               ),
-            );
+              onTap: () {
+                setState(() {
+                  _offset += 19;
+                });
+              },
+            ),
+          );
         }
       }
     );

@@ -1,8 +1,23 @@
  <p align="center">
-      <img src="https://user-images.githubusercontent.com/59374587/92953594-5c2cb080-f438-11ea-9a12-9e04714f92d1.gif" width="169px" alt="https://stories.freepik.com/work Illustration by Freepik Stories"/>
+      <img src="https://user-images.githubusercontent.com/59374587/92953594-5c2cb080-f438-11ea-9a12-9e04714f92d1.gif" width="200px" alt="https://stories.freepik.com/work Illustration by Freepik Stories"/>
 </p>
 
 <h1 align="center">Gif Finder</h1>
+
+   <h2 align="center">Topics 📋</h2>
+
+   <p>
+   
+   - [About 📖](#about-)
+   - [Preview 📱](#preview-)
+   - [Challenges and Learnings along the way 🤯](#---challenges-and-learnings-along-the-way----)
+   - [How to Use 🤔](#how-to-use-)
+   - [How to Contribute 💪](#how-to-contribute-)
+   - [License 📝](#license-)
+
+   </p>
+
+---
 
 <h2 align="center">About 📖</h2>
    
@@ -18,7 +33,7 @@
 <h2 align="center">Preview 📱</h2><br>
 
    <p align="center">
-      <img src="demos/demo_1.gif" width="500">>
+      <img src="demos/demo_1.gif" width="500">
    </p>
    
    > * Is acellerated by 1.5, and in the [`demo`](https://github.com/felipecastrosales/Gif-Finder/tree/master/demos) folder. 🧐📂
@@ -27,7 +42,13 @@
 
 <h2 align="center">Challenges and Learnings along the way 🤯</h2>
 
-   > * In development... 🚧 
+   <p align="center">
+   At first, I was not quite understanding the logic of animations with Daer, and I felt a little difficulty about it.<br>
+   But during the tests, transitions, everything was getting better in my mind, I started to understand well, and finishing the application with few problems and difficulties.<br>
+   I had an error in the middle of the path that cost me a long time, and it was that the animation only received values in rgb, and not in hexadecimal, which was the form I was using, and I spent hours trying to solve this simple problem, but there was even more learning about these kinds problems.<br>
+   And that is the secret, to learn from our mistakes and the mistakes of others, so that they do not happen to us. 
+
+   </p> 
 
 ---
 
@@ -45,6 +66,23 @@
 
    - Run the app: 
    $ flutter run
+   ```
+
+---
+
+<h2 align="center">How to Contribute 💪</h2>
+
+   ```
+   - Fork the project 
+
+   - Create a new branch with your changes:
+   $ git checkout -b my-feature
+
+   - Save your changes and create a commit message telling you what you did:
+   $ git commit -m "feature: My new feature"
+
+   - Submit your changes:
+   $ git push origin my-feature
    ```
 
 ---
