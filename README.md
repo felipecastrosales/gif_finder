@@ -33,7 +33,7 @@
 <h2 align="center">Preview 📱</h2><br>
 
    <p align="center">
-      <img src="demos/demo_1.gif" width="500">>
+      <img src="demos/demo_1.gif" width="500">
    </p>
    
    > * Is acellerated by 1.5, and in the [`demo`](https://github.com/felipecastrosales/Gif-Finder/tree/master/demos) folder. 🧐📂
@@ -42,7 +42,13 @@
 
 <h2 align="center">Challenges and Learnings along the way 🤯</h2>
 
-   > * In development... 🚧 
+   <p align="center">
+   At first, I was not quite understanding the logic of animations with Daer, and I felt a little difficulty about it.<br>
+   But during the tests, transitions, everything was getting better in my mind, I started to understand well, and finishing the application with few problems and difficulties.<br>
+   I had an error in the middle of the path that cost me a long time, and it was that the animation only received values in rgb, and not in hexadecimal, which was the form I was using, and I spent hours trying to solve this simple problem, but there was even more learning about these kinds problems.<br>
+   And that is the secret, to learn from our mistakes and the mistakes of others, so that they do not happen to us. 
+
+   </p> 
 
 ---
 
