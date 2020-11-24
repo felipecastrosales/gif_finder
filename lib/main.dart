@@ -5,7 +5,7 @@ void main() => runApp(MaterialApp(
   debugShowCheckedModeBanner: false,
   home: HomePage(),
   theme: ThemeData(
-  hintColor: Colors.white,
+    hintColor: Colors.white,
     primaryColor: Colors.white,
     inputDecorationTheme: InputDecorationTheme(
       enabledBorder:
@@ -13,5 +13,6 @@ void main() => runApp(MaterialApp(
       focusedBorder:
         OutlineInputBorder(borderSide: BorderSide(color: Colors.white)),
       hintStyle: TextStyle(color: Colors.white),
-    )),
+    )
+  ),
 ));
