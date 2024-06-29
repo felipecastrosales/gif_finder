@@ -36,7 +36,7 @@
       <img src="demos/demo_1.gif" width="400">
    </p>
    
-   > * Is acellerated by 1.5, and in the [`demo`](https://github.com/felipecastrosales/Gif-Finder/tree/master/demos) folder. 🧐📂
+   > * Is acellerated by 1.5, and in the [`demo`](https://github.com/felipecastrosales/gif_finder/tree/master/demos) folder. 🧐📂
 
 ---
 
@@ -56,10 +56,10 @@
 
    ```   
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/Gif-Finder Gif-Finder
+   $ git clone https://github.com/felipecastrosales/gif_finder gif_finder
 
    - Enter in directory:
-   $ cd Gif-Finder
+   $ cd gif_finder
 
    - For install dependencies:
    $ flutter packages get
@@ -89,7 +89,7 @@
 
 <h2 align="center">License 📝</h2>
 
-   This repository is under MIT license. You can see the [LICENSE](https://github.com/felipecastrosales/Gif-Finder/blob/master/LICENSE) file for more details. 😉
+   This repository is under MIT license. You can see the [LICENSE](https://github.com/felipecastrosales/gif_finder/blob/master/LICENSE) file for more details. 😉
 
    ---
 
