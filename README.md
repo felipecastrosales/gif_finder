@@ -56,7 +56,7 @@
 
    ```   
    - Clone this repository:
-   $ git clone https://github.com/felipecastrosales/gif_finder gif_finder
+   $ git clone https://github.com/felipecastrosales/gif_finder
 
    - Enter in directory:
    $ cd gif_finder
