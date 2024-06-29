@@ -10,7 +10,6 @@
    
    - [About 📖](#about-)
    - [Preview 📱](#preview-)
-   - [Challenges and Learnings along the way 🤯](#challenges-and-learnings-along-the-way-)
    - [How to Use 🤔](#how-to-use-)
    - [How to Contribute 💪](#how-to-contribute-)
    - [License 📝](#license-)
@@ -22,10 +21,9 @@
 <h2 align="center">About 📖</h2>
    
 <p align="center">   
-   A simple Gif Finder made with Flutter 💙.<br>
+   A Gif Finder made with Flutter 💙.<br>
    With this application you can see gifs that are hot on Giphy, being able to share them on your social networks or via link.<br>
    It was developed using the <a href="https://developers.giphy.com/dashboard/">Giphy API</a>.<br>
-   This application is in version 1.1.
 </p>
 
 ---
@@ -36,21 +34,7 @@
       <img src="demos/demo_1.gif" width="400">
    </p>
    
-   > * Is acellerated by 1.5, and in the [`demo`](https://github.com/felipecastrosales/gif_finder/tree/master/demos) folder. 🧐📂
-
----
-
-<h2 align="center">Challenges and Learnings along the way 🤯</h2>
-
-   <p>
-   This application for searching Gifs through the API provided by Giphy itself, very well documented and structured.<br>
-   Here was my second experience using APIs, and I did well in both, despite the doubts I had about how to consult, I managed to understand the concept, and how to do it.<br>
-   Certainly with a lot of practice I will learn more and more about it.<br>
-   I also learned a lot about new widgets, layouts, and logic.
-
-   </p> 
-
----
+   > * Is acellerated by 1.5x, and in the [`demo`](https://github.com/felipecastrosales/gif_finder/tree/master/demos) folder. 🧐📂
 
 <h2 align="center">How to Use 🤔</h2>
 
@@ -62,7 +46,7 @@
    $ cd gif_finder
 
    - For install dependencies:
-   $ flutter packages get
+   $ flutter pub get
 
    - Run the app: 
    $ flutter run
